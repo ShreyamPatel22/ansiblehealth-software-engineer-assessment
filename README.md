@@ -1,10 +1,10 @@
 # ansiblehealth-software-engineer-assessment
 
-Markdown → Google Docs Formatter (Assessment Project)
-Candidate: Shreyam Patel
+Google Docs Formatter (Assessment Project)
+Shreyam Patel
 Ansible Health — Software Engineer Assessment
 
-Overview
+### Overview
 
 This project converts a Markdown meeting note file into a fully formatted Google Doc using the Google Docs API.
 
